@@ -21,3 +21,6 @@ set visualbell
 
 " Highlight current line.
 set cursorline
+
+" Highligh search pattern matches.
+set hlsearch
